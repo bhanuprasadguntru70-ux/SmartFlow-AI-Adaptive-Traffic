@@ -1,0 +1,6 @@
+{
+  "name": "SmartFlow AI - Adaptive Traffic Signal Management",
+  "description": "AI-Powered Adaptive Traffic Signal Management System optimizing city traffic signals in real time using traffic flow analytics and ML simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
